@@ -21,7 +21,7 @@ class SettingController extends Controller
             'cafe_address' => 'nullable|string',
             'cafe_phone' => 'nullable|string|max:20',
             'cafe_email' => 'nullable|email|max:255',
-            'tax_percentage' => 'required|numeric|min:0|max:100',
+            'tax_percentage' => 'r0',
             'currency' => 'required|string|max:10',
             'is_open' => 'boolean',
         ]);

@@ -103,7 +103,7 @@
 
         <div class="header">
             <h1>☕ {{ $settings->cafe_name ?? 'RUANG TEDUH' }}</h1>
-            <p>{{ $settings->cafe_address ?? 'Jl. Cerita No. 123, Jakarta' }}</p>
+            <p>Jl. Abdullah Lubis No.65, Merdeka, Kec. Medan Baru</p>
             <p>Telp: {{ $settings->cafe_phone ?? '021-12345678' }}</p>
         </div>
 
