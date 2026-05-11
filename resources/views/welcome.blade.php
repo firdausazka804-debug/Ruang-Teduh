@@ -316,7 +316,7 @@
             </div>
         </div>
         <div class="text-center mt-12 md:mt-20 pt-10 border-t border-white/5 font-sans text-[10px] text-dim/30 uppercase tracking-[0.4em]">
-            © 2025 • Azka Firdaus.
+            © 2026 • Azka Firdaus.
         </div>
     </footer>
 
